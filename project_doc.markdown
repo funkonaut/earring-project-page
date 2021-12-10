@@ -2,7 +2,7 @@
 layout: page
 title: "Project Documentation" 
 description:
-image: /assets/images/doc/alien_main.jpg
+image: /assets/images/doc/Alien_main.jpg
 author: Chris Correll
 tags: 
 --- 
@@ -142,7 +142,7 @@ With all my marketing content prepared I opened my Etsy shop. I am pretty sure a
 Packaging the earrings and sending them out was not too difficult. I just put them in anti static bags and had Etsy generate the shipping labels. Eventually I made the decision to close down the shop as I did not really care to promote the project much more then just to friends and family after selling around 15 pairs of earrings and giving away around 5 more. I also did not end up posting on [Tindie](https://www.tindie.com/), an option I would probably like to explore more in the future.
 
 ![Devil marketing shot](/assets/images/doc/Devil_main.jpg)
-*Good Etsy bye for now...*
+*Goodbye Etsy for now...*
 
 ## BOMbing it
 ![Devil final BOM and cost break down](/assets/images/doc/devil_bom_clean.png)
