@@ -1,8 +1,0 @@
---- 
-layout: post
-title: "" 
-description:
-image: /assets/images/Devil/devil_3d_top.png
-author: Chris Correll
-tags: 
---- 
