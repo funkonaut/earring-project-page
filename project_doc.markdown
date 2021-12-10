@@ -68,7 +68,7 @@ Now that I had all the boards it was time to start manufacturing and assembly. T
  
 All in all it was sometimes nice to get in a flow for a couple of hours and knock out 8 or 9 boards but I know now why a pick and place machine exits. I didn't have a nice microscope to aide in hand placement and I definitely got eye strain over a stretch of time. I think in the future getting a set up similar to [this guy](https://www.youtube.com/watch?v=HmPYuOIMDJs) would be useful. I still have around 50 or so unassembled baords and maybe one day I will get to making them but I am happy with having made as many earring pairs as I did.
 
-![Laser cut sheet of alien faceplates](/assets/images/doc/laser_Cut_sheet.jpeg)
+![Laser cut sheet of alien faceplates](/assets/images/doc/laser_cut_sheet.jpeg)
 In addition to the PCB assembly process I also had to figure out an assembly process for the acrylic face plates. Laser cutting the acrylic ended up being a little trickier then I thought. I wasn't working with the best machine out their and it did take a couple of passes to get through the acrylic. As well the laser strength would sometimes leave marks on the acrylic. For the solid pink devil face plates this was not as much as of an issue. I could just flip them over and use the unmarred side but I had to trash some of the alien face plates good thing I ended up cutting like 30 extra since I had the acrylic and it was relatively unexpensive.
 
 ![Laser cut devil faceplates](/assets/images/doc/laser_cut_devil.jpg)
