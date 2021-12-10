@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "" 
+description:
+image: /assets/images/Devil/Devil_iso.jpg
+author: Chris Correll
+tags: 
+--- 
